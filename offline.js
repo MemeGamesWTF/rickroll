@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734011678,
+	"version": 1734014391,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -17,6 +17,8 @@
 		"images/sprite4-sheet1.png",
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
+		"images/frame_00_delay005s-sheet0.png",
+		"images/frame_00_delay005s-sheet1.png",
 		"media/original song.m4a",
 		"media/original song.ogg",
 		"media/rick rolled - bgm.m4a",
